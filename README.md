@@ -7,7 +7,7 @@ It might not work with non-unique options such as `Enabled=1`.
 
 ## Usage
 1. Enter your preferred settings in the .ini files.
-2. Change path to the script directory (`sourceDir`) in `fix-ini.js`. (required only before the first script run).
+2. Change path to the script directory (`sourceDir`) in `fix-ini.js` (required only before the first script run).
 3. Change path to the game directory (`targetDir`) in `fix-ini.js` (required only once per each game installation).
 4. Run `fix-ini.bat` (ideally from command line).
 
